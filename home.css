@@ -84,3 +84,22 @@ body {
     grid-gap: 10px;
 
    }
+   .para{
+    font-family: 'Quicksand', sans-serif;
+
+   }
+   .hm1{
+    display: flex;
+    align-items: center;
+   }
+   .hm1 img{
+    margin-right: 15px;
+   }
+   .hm2{
+    display: flex;
+    align-items: center;
+   }
+   .hm2 img{
+    margin-left: 15px;
+   }
+   
