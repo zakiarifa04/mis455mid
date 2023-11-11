@@ -13,6 +13,11 @@ body {
    header h1 {
     display: inline;
     margin-right: 20px;
+    color: black;
+   }
+
+   header h1 a:hover{
+    color: rgb(103, 167, 209);
    }
    
    nav ul {
